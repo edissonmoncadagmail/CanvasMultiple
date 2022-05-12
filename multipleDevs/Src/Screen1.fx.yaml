@@ -7,7 +7,7 @@ Screen1 As screen:
 
     Label1 As label:
         Height: =43
-        Text: ="Testing changes on the form"
+        Text: ="Testing changes on the forms"
         Width: =876
         X: =60
         Y: =56
