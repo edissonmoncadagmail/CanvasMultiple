@@ -12,7 +12,7 @@
     "TextInput2": 10
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/12/2022 16:15:03",
+  "HeaderLastSavedDateTimeUTC": "05/12/2022 18:14:31",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -25,21 +25,21 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 2,
-    "form": 1,
-    "label": 3,
-    "text": 0
+    "button": 3,
+    "form": 0,
+    "label": 1,
+    "text": 2
   },
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 5,
-    "Form1": 3,
-    "Label1": 7,
-    "Label2": 6,
-    "Label3": 8,
+    "Button1": 3,
+    "Form1": 0,
+    "Label1": 1,
+    "Label2": 4,
+    "Label3": 5,
     "Screen1": 2,
-    "TextInput1": 4,
-    "TextInput2": 0
+    "TextInput1": 2,
+    "TextInput2": 6
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
