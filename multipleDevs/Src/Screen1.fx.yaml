@@ -1,0 +1,15 @@
+Screen1 As screen:
+
+    Form1 As form:
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Label1 As label:
+        Height: =43
+        Text: ="Testing changes on the form"
+        Width: =876
+        X: =60
+        Y: =56
+        ZIndex: =2
+
