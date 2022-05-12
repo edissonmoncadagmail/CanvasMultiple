@@ -53,3 +53,9 @@ Screen1 As screen:
         Y: =378
         ZIndex: =8
 
+    Button2 As button:
+        Text: ="Btncommit"
+        X: =1026
+        Y: =286
+        ZIndex: =9
+
