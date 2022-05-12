@@ -26,8 +26,16 @@ Screen1 As screen:
         ZIndex: =4
 
     Label2 As label:
+        Height: =107
         Text: ="label from edisson"
+        Width: =185
         X: =60
         Y: =402
         ZIndex: =5
+
+    Label3 As label:
+        Text: ="Just a new label"
+        X: =487
+        Y: =435
+        ZIndex: =6
 
