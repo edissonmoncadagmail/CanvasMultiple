@@ -45,3 +45,11 @@ Screen1 As screen:
         Y: =647
         ZIndex: =7
 
+    Label4 As label:
+        Height: =97
+        Text: ="Adey Session"
+        Width: =377
+        X: =884
+        Y: =378
+        ZIndex: =8
+
