@@ -25,3 +25,9 @@ Screen1 As screen:
         Y: =178
         ZIndex: =4
 
+    Label2 As label:
+        Text: ="label from edisson"
+        X: =60
+        Y: =402
+        ZIndex: =5
+
