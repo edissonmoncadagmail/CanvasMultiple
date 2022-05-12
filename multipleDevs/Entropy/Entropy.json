@@ -1,7 +1,19 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 7,
+    "Form1": 4,
+    "Label1": 10,
+    "Label2": 8,
+    "Label3": 9,
+    "Label4": 11,
+    "Screen1": 3,
+    "TextInput1": 6,
+    "TextInput2": 5
+  },
   "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "05/12/2022 18:15:32",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -13,8 +25,37 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
+  "OrderXMLTemplate": {
+    "button": 3,
+    "form": 1,
+    "label": 0,
+    "text": 2
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 6,
+    "Form1": 3,
+    "Label1": 9,
+    "Label2": 7,
+    "Label3": 8,
+    "Label4": 0,
+    "Screen1": 2,
+    "TextInput1": 5,
+    "TextInput2": 4
+  },
   "ResourcesJsonIndices": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0547587,
+    "ControlCount": {
+      "button": 1,
+      "form": 1,
+      "label": 3,
+      "screen": 1,
+      "text": 2
+    },
+    "DeserializationLoadTime": 0.5351901,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
